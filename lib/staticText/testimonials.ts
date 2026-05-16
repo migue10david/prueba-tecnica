@@ -1,0 +1,4 @@
+export const testimonials = [
+  "LO LLEVO A LA OFICINA, YA NO PIERDO TIEMPO SALIENDO POR CAFÉ.",
+  "VIAJO CON ESTO Y SIEMPRE TENGO BUEN CAFÉ.",
+]

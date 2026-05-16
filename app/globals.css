@@ -3,6 +3,13 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --hero-primary: #A61E22;
+  --hero-secondary: #4E2F2B;
+  --hover-primary: #651410;
+  --hover-secondary: #4E2F2B;
+  --hover-tertiary: #271110;
+  --active-primary: #AF8846;
+  --cards-button: #CFC3B5;
 }
 
 @theme inline {
@@ -10,6 +17,10 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-montserrat: var(--font-montserrat);
+  --font-cinzel: var(--font-cinzel);
+  --color-hero-primary: var(--hero-primary);
+  --color-hero-secondary: var(--hero-secondary);
 }
 
 @media (prefers-color-scheme: dark) {
